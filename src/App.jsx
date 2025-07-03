@@ -206,7 +206,6 @@ export default function App() {
                       </div>
                     </div>
                   </div>
-
                   <p className="text-sm text-center text-white/80 capitalize">
                     {getWeatherDescription(
                       weatherData.daily.weathercode[index]
