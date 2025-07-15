@@ -1,12 +1,26 @@
-# React + Vite
+🌤️ 14-Day Weather Forecast App — St. Louis, MO
+This is a responsive web application that displays a 14-day weather forecast for St. Louis, Missouri. It provides users with accurate weather information including temperature, conditions, and more in a clean, user-friendly UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+📍 Location Fixed: Weather forecast for St. Louis, MO
 
-Currently, two official plugins are available:
+📅 14-Day Outlook: See daily highs, lows, and condition summaries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌤️ Real-Time Conditions: Get the latest weather information
 
-## Expanding the ESLint configuration
+📱 Responsive Design: Works great on mobile and desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Modern UI: Clean and intuitive user interface with subtle animations
+
+🛠️ Tech Stack
+Frontend:
+
+React + TypeScript
+
+TailwindCSS
+
+Vite
+
+API:
+
+Open-mateo api
